@@ -12,6 +12,8 @@ Depending on your PC, you can run different amounts of threads. For example, for
 
 I reccomend using a VPN for DDoSing, I use Windscribe.
 
+I am not sure whether or not the IP DDoS works, but you'll have to find out for yourself.
+
 Thats it for now.
 Thanks for using my DDoS tool!
 
