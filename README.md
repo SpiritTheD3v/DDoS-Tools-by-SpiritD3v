@@ -1,5 +1,7 @@
 Hello. This is some information about the DDoS tool.
 
+Credit to Dev7Knight for the website DDoS script.
+
 1st thing, is how to set it up.
 
 1. Run Installer.py.
